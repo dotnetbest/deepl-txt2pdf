@@ -1,0 +1,1 @@
+pipenv run python main.py input.txt output.pdf
